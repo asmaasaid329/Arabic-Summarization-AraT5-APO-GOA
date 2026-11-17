@@ -1,4 +1,4 @@
-# ================================================================
+
 #  BASELINE (3 seeds)
 # SAME TRAINING PROTOCOL as Random Search / GOA / APO final training.
 # Only difference: NO hyperparameter search (fixed default values).
