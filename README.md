@@ -18,6 +18,12 @@ The objective of this study is to investigate the effectiveness of different hyp
 ## Model
 
 - Model: AraT5-base-1024
+## Dataset
+
+This study uses the Arabic subset of the XL-Sum dataset.
+
+- Dataset: [XL-Sum](https://github.com/csebuetnlp/xl-sum) 
+- Language: Arabic
 
 ## Experimental Approaches
 
