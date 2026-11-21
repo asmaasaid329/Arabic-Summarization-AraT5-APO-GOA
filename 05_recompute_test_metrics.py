@@ -30,7 +30,7 @@ from pathlib import Path
 import numpy as np
 import torch
 import evaluate
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLMa
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 from google.colab import drive
 drive.mount("/content/drive")
